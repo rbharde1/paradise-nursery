@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+  <rect width="400" height="400" fill="#f3f8f1"/>
+  <circle cx="200" cy="196" r="150" fill="#e4f0e2"/>
+  <path d="M200 262 Q 178.0 211.0 156.0 200.0" stroke="#1d5136" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 222.0 211.0 244.0 200.0" stroke="#1d5136" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 190.0 184.0 180.0 146.0" stroke="#1d5136" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 211.0 183.0 222.0 144.0" stroke="#1d5136" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 200.5 165.0 201.0 108.0" stroke="#1d5136" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="156" cy="200" rx="34.0" ry="44.0" fill="#1d5136" transform="rotate(-24.0 156.0 200.0)"/>
+  <ellipse cx="244" cy="200" rx="34.0" ry="44.0" fill="#2e7047" transform="rotate(24.0 244.0 200.0)"/>
+  <ellipse cx="180" cy="146" rx="32.0" ry="42.0" fill="#1d5136" transform="rotate(-12.0 180.0 146.0)"/>
+  <ellipse cx="222" cy="144" rx="32.0" ry="42.0" fill="#2e7047" transform="rotate(14.0 222.0 144.0)"/>
+  <ellipse cx="201" cy="108" rx="32.0" ry="44.0" fill="#4f9160" transform="rotate(0.0 201.0 108.0)"/>
+  <path d="M156 169.2 L156 230.8" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(-24 156 200)"/>
+  <path d="M244 169.2 L244 230.8" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(24 244 200)"/>
+  <path d="M180 116.6 L180 175.4" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(-12 180 146)"/>
+  <path d="M222 114.6 L222 173.4" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(14 222 144)"/>
+  <path d="M201 77.2 L201 138.8" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(0 201 108)"/>
+  
+  <defs>
+    <linearGradient id="pot" x1="138" y1="268" x2="262" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e2e5e8"/><stop offset="1" stop-color="#b9bfc6"/>
+    </linearGradient>
+  </defs>
+  <path d="M138 268 h124 l-16 104 a14 14 0 0 1 -14 12 h-64 a14 14 0 0 1 -14 -12 z" fill="url(#pot)"/>
+  <rect x="128" y="250" width="144" height="26" rx="10" fill="#b9bfc6"/>
+  <rect x="128" y="250" width="144" height="10" rx="5" fill="#ffffff" opacity="0.18"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+  <rect width="400" height="400" fill="#f3f8f1"/>
+  <circle cx="200" cy="196" r="150" fill="#e4f0e2"/>
+  <ellipse cx="254" cy="196" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(0.0 254.0 196.0)"/>
+  <ellipse cx="267.96592721982364" cy="206.38629983008002" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(13.8 268.0 206.4)"/>
+  <ellipse cx="276.14921820617604" cy="220.77903953337375" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(27.7 276.1 220.8)"/>
+  <ellipse cx="276.3480963134523" cy="237.93587690714787" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(41.5 276.3 237.9)"/>
+  <ellipse cx="230.6754963234824" cy="223.55349983011962" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(55.4 230.7 223.6)"/>
+  <ellipse cx="224.8223420929775" cy="236.579704932547" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(69.2 224.8 236.6)"/>
+  <ellipse cx="210.36615450195777" cy="248.93123716690823" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(83.1 210.4 248.9)"/>
+  <ellipse cx="187.70525861395706" cy="258.77890919796096" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(96.9 187.7 258.8)"/>
+  <ellipse cx="180.85133609970308" cy="227.3043438051077" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(110.8 180.9 227.3)"/>
+  <ellipse cx="160.23546772881912" cy="231.7174997797847" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(124.6 160.2 231.7)"/>
+  <ellipse cx="135.6280756572853" cy="231.3577001373992" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(138.5 135.6 231.4)"/>
+  <ellipse cx="109.6834853833726" cy="225.38909340004793" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(152.3 109.7 225.4)"/>
+  <ellipse cx="147.5691418589932" cy="204.01228844034742" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(166.2 147.6 204.0)"/>
+  <ellipse cx="130" cy="196" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(180.0 130.0 196.0)"/>
+  <ellipse cx="116.49900370135951" cy="183.23968878018744" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(193.8 116.5 183.2)"/>
+  <ellipse cx="109.68348538337257" cy="166.6109065999521" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(207.7 109.7 166.6)"/>
+  <ellipse cx="159.58041959876056" cy="173.79865340209818" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(221.5 159.6 173.8)"/>
+  <ellipse cx="160.2354677288191" cy="160.2825002202153" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(235.4 160.2 160.3)"/>
+  <ellipse cx="169.5039797143419" cy="146.1449339400137" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(249.2 169.5 146.1)"/>
+  <ellipse cx="187.705258613957" cy="133.22109080203907" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(263.1 187.7 133.2)"/>
+  <ellipse cx="206.50898073378744" cy="162.76410689519716" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(276.9 206.5 162.8)"/>
+  <ellipse cx="224.8223420929775" cy="155.420295067453" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(290.8 224.8 155.4)"/>
+  <ellipse cx="248.8535682188794" cy="152.11850027055024" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(304.6 248.9 152.1)"/>
+  <ellipse cx="276.3480963134523" cy="154.06412309285207" rx="22.0" ry="11.0" fill="#c3d9a8" transform="rotate(318.5 276.3 154.1)"/>
+  <ellipse cx="247.81462538527333" cy="180.44106819997464" rx="22.0" ry="11.0" fill="#2b6440" transform="rotate(332.3 247.8 180.4)"/>
+  <ellipse cx="267.96592721982364" cy="185.61370016991998" rx="22.0" ry="11.0" fill="#4f8d5a" transform="rotate(346.2 268.0 185.6)"/>
+  <ellipse cx="200" cy="200" rx="46" ry="30" fill="#2b6440"/>
+  
+  <defs>
+    <linearGradient id="pot" x1="138" y1="268" x2="262" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b2564f"/><stop offset="1" stop-color="#8e3f3a"/>
+    </linearGradient>
+  </defs>
+  <path d="M138 268 h124 l-16 104 a14 14 0 0 1 -14 12 h-64 a14 14 0 0 1 -14 -12 z" fill="url(#pot)"/>
+  <rect x="128" y="250" width="144" height="26" rx="10" fill="#8e3f3a"/>
+  <rect x="128" y="250" width="144" height="10" rx="5" fill="#ffffff" opacity="0.18"/>
+</svg>

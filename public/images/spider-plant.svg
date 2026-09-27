@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+  <rect width="400" height="400" fill="#f3f8f1"/>
+  <circle cx="200" cy="196" r="150" fill="#e4f0e2"/>
+  <path d="M192 264 L86.5 233.9 L208 264 z" fill="#3f8a4f"/>
+  <path d="M192 264 L79.5 195.0 L208 264 z" fill="#6fb069"/>
+  <path d="M192 264 L130.0 192.3 L208 264 z" fill="#3f8a4f"/>
+  <path d="M192 264 L139.9 158.8 L208 264 z" fill="#6fb069"/>
+  <path d="M192 264 L163.4 127.0 L208 264 z" fill="#3f8a4f"/>
+  <path d="M192 264 L200.0 162.0 L208 264 z" fill="#6fb069"/>
+  <path d="M192 264 L231.2 146.3 L208 264 z" fill="#3f8a4f"/>
+  <path d="M192 264 L270.5 141.7 L208 264 z" fill="#6fb069"/>
+  <path d="M192 264 L270.0 192.3 L208 264 z" fill="#3f8a4f"/>
+  <path d="M192 264 L302.8 204.3 L208 264 z" fill="#6fb069"/>
+  <path d="M192 264 L333.0 229.7 L208 264 z" fill="#3f8a4f"/>
+  
+  <defs>
+    <linearGradient id="pot" x1="138" y1="268" x2="262" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8d2c6"/><stop offset="1" stop-color="#b4ac9c"/>
+    </linearGradient>
+  </defs>
+  <path d="M138 268 h124 l-16 104 a14 14 0 0 1 -14 12 h-64 a14 14 0 0 1 -14 -12 z" fill="url(#pot)"/>
+  <rect x="128" y="250" width="144" height="26" rx="10" fill="#b4ac9c"/>
+  <rect x="128" y="250" width="144" height="10" rx="5" fill="#ffffff" opacity="0.18"/>
+</svg>

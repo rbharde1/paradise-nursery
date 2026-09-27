@@ -1,0 +1,43 @@
+.about-us {
+  color: var(--ink);
+}
+
+.about-us-heading {
+  margin: 0 0 16px;
+  font-size: 1.5rem;
+  color: var(--green-900);
+}
+
+.about-us-text {
+  margin: 0 0 14px;
+  font-size: 0.98rem;
+  line-height: 1.65;
+  color: var(--muted);
+}
+
+.about-us-points {
+  margin: 20px 0 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 9px;
+}
+
+.about-us-points li {
+  position: relative;
+  padding-left: 26px;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--green-700);
+}
+
+.about-us-points li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50% 0 50% 50%;
+  background: var(--green-300);
+}

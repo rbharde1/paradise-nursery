@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+  <rect width="400" height="400" fill="#f3f8f1"/>
+  <circle cx="200" cy="196" r="150" fill="#e4f0e2"/>
+  <path d="M200 262 Q 180.0 216.0 160.0 210.0" stroke="#1c5535" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 221.0 214.0 242.0 206.0" stroke="#1c5535" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 188.0 185.0 176.0 148.0" stroke="#1c5535" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 214.0 182.0 228.0 142.0" stroke="#1c5535" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 201.0 157.0 202.0 92.0" stroke="#1c5535" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M200 262 Q 200.0 200.0 200.0 178.0" stroke="#1c5535" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="160" cy="210" rx="38.0" ry="30.0" fill="#1c5535" transform="rotate(-20.0 160.0 210.0)"/>
+  <ellipse cx="242" cy="206" rx="38.0" ry="30.0" fill="#2d7244" transform="rotate(22.0 242.0 206.0)"/>
+  <ellipse cx="176" cy="148" rx="36.0" ry="30.0" fill="#1c5535" transform="rotate(-10.0 176.0 148.0)"/>
+  <ellipse cx="228" cy="142" rx="36.0" ry="30.0" fill="#2d7244" transform="rotate(12.0 228.0 142.0)"/>
+  <ellipse cx="202" cy="92" rx="38.0" ry="34.0" fill="#1c5535" transform="rotate(0.0 202.0 92.0)"/>
+  <ellipse cx="200" cy="178" rx="30.0" ry="24.0" fill="#478f57" transform="rotate(0.0 200.0 178.0)"/>
+  <path d="M160 189.0 L160 231.0" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(-20 160 210)"/>
+  <path d="M242 185.0 L242 227.0" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(22 242 206)"/>
+  <path d="M176 127.0 L176 169.0" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(-10 176 148)"/>
+  <path d="M228 121.0 L228 163.0" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(12 228 142)"/>
+  <path d="M202 68.2 L202 115.8" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(0 202 92)"/>
+  <path d="M200 161.2 L200 194.8" stroke="#0c2f1d" stroke-width="2" opacity="0.28" transform="rotate(0 200 178)"/>
+  
+  <defs>
+    <linearGradient id="pot" x1="138" y1="268" x2="262" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e6ded2"/><stop offset="1" stop-color="#c2b6a5"/>
+    </linearGradient>
+  </defs>
+  <path d="M144 262 h112 l-10 116 a14 14 0 0 1 -14 12 h-50 a14 14 0 0 1 -14 -12 z" fill="url(#pot)"/>
+  <rect x="134" y="250" width="132" height="26" rx="10" fill="#c2b6a5"/>
+  <rect x="134" y="250" width="132" height="10" rx="5" fill="#ffffff" opacity="0.18"/>
+</svg>
